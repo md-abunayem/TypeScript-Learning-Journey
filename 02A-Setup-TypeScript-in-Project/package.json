@@ -1,0 +1,17 @@
+{
+  "name": "02a-setup-typescript-in-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "strt": "node dist/index.js",
+    "dev": "node init && npx tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
